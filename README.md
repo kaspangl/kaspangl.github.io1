@@ -3,7 +3,7 @@
 <head>
 
 <br>
-
+ 
 
 </head>
 
@@ -16,14 +16,13 @@
 
 <body>
 <Center>
-<font color = "blue">
-<h1> <b>Testimonials</b></h1>
-</font>
+<h1 style=color:blue> <b>Testimonials</b></h1>
+
 <br>
 <br>
 
 
-<font color = "C1E1C1" size ="7">"The food was melt in your mouth delicious. </font> <font color = "blue" size = "5"> I went back for seconds and maybe even thirds!" - Kamara W. She told us she spent hours searching the internet to find a recipe similar to our gluten free carrot cake cupcakes. <a href = https://chefjanetk.com/gluten-free-carrot-cake-cupcakes/> Click Here for a Copy Cat Recipe!</a> </font>
+<p style="color: "#C1E1C1"; size ="7">"The food was melt in your mouth delicious. </font> <font color = "blue" size = "5"> I went back for seconds and maybe even thirds!" - Kamara W. She told us she spent hours searching the internet to find a recipe similar to our gluten free carrot cake cupcakes. <a href = https://chefjanetk.com/gluten-free-carrot-cake-cupcakes/> Click Here for a Copy Cat Recipe!</a> </p>
 
 <br>
 <br>
