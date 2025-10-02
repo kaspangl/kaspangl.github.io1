@@ -1,28 +1,44 @@
-# kaspangl.github.io1
-<html>
-<head>
-
-<br>
- 
-
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <title>Testimonials</title>
+  <style>
+   body {
+    font-family: Arial, Aptos;
+    margin: 20px;
+    line-height: 1.6;
+    }
+   .light blue-text {
+    color: light blue;
+    font-size: 18px;
+    }
+   .light green-text {
+    color: light green:
+    font-family: Arial, Aptos;
+    font-size: 14px;
+    }
+   img {
+    max-width: 310px;
+    display: block;
+    margin-top: 10px;
+    border-radius: 8px;
+    }
+   fotter {
+    margin-top: 40px;
+    font-size: 12px;
+    color: light green;
+    }
+   </style>
+   
 </head>
-
- 
-
-
-
-
-
-
 <body>
-<Center>
-<h1 style=color:blue> <b>Testimonials</b></h1>
-
+ <h1 style=color:blue> <b>Testimonials</b></h1>
 <br>
 <br>
 
 
-<p style="color: "#C1E1C1"; size ="7">"The food was melt in your mouth delicious. </font> <font color = "blue" size = "5"> I went back for seconds and maybe even thirds!" - Kamara W. She told us she spent hours searching the internet to find a recipe similar to our gluten free carrot cake cupcakes. <a href = https://chefjanetk.com/gluten-free-carrot-cake-cupcakes/> Click Here for a Copy Cat Recipe!</a> </p>
+ <p class = "light blue>"The food was melt in your mouth delicious. </font>    <font color = "blue" size = "5"> I went back for seconds and maybe even thirds!" - Kamara W. She told us she spent hours searching the internet to find a recipe similar to our gluten free carrot cake cupcakes. <a href = https://chefjanetk.com/gluten-free-carrot-cake-cupcakes/> Click Here for a Copy Cat Recipe!</a> </p>
 
 <br>
 <br>
